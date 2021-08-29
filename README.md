@@ -2,6 +2,8 @@
 
 Simulación basada en Agentes de un paseo de dueños y sus mascotas _(perros)_ por un parque.
 
+![simulacion](./images/simulacion.png)
+
 ## Entorno
 
 En el parque podemos encontrar cosas como:
@@ -14,7 +16,7 @@ En el parque podemos encontrar cosas como:
 
 También se pueden encontrar otros animales como:
 
-- Perros Callejeros*
+- Perros Callejeros
 - Pájaros
 - Insectos
 - Mariposas
@@ -69,7 +71,7 @@ Esta simulación permite registrar diferentes cantidades:
 - Peleas entre perros agresivos.
 - Peleas entre perros agresivos y calmados.
 - Jardines y Basureros dañados.
-- Ataques a otros animales. 
+- Ataques a otros animales.
 - Ataques hacia los vecinos.
 - Vecinos retirados del parque
 - Dueños retirados del parque
